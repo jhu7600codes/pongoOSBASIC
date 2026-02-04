@@ -16,4 +16,8 @@ for the zip: unpack the zip, open it in a terminal and run ./install.sh, it will
 
 get the .zip
 then run the run_pongoOSbasic.bat
-if the install popup for PCBASIC pops up, just install it, after instalation try to run the .bat again, if does not work, run PCBASIC and open the .bas maunallt
+if the install popup for PCBASIC pops up, just install it, after instalation try to run the .bat again, if does not work, run PCBASIC and open the .bas maunally
+
+# COMPILE IT YOURSELF
+
+just clone this repo and use qb64 to compile it if you want an executable.
