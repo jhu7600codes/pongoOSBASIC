@@ -8,9 +8,8 @@ i am NOT affiliated with the checkra1n team and or the checkm8 exploit. this pro
 
 REQUIREMENTS: pcbasic if you are using a non-debian/fedora/arch based distro, if you are using one of those the install script will automatically install it for you, nothing for the binary.
 
-firstly, get the zip/binary.
-for the binary: download the zip and MANUALLY modify the install.sh to use the binary, then run it.
-for the zip: unpack the zip, open it in a terminal and run ./install.sh, it will automatically install pcbasic and will create a symlink for pongoOSBASIC.
+firstly, get the zip.
+unpack the zip, open it in a terminal and run ./install.sh, it will automatically install pcbasic and will create a symlink for pongoOSBASIC.
 
 # HOW TO INSTALL ON WINDOWS
 
